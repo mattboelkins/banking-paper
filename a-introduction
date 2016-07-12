@@ -1,0 +1,5 @@
+Here is Alice's introduction to the banking paper.
+
+I made some edits to this after first adding the file to the repository.  Then I saved and committed the changes.
+
+Now I am making some more edits to make the working directory dirty.  The directory only recognizes it is dirty after you save the most recent edits.
